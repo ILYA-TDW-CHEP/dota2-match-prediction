@@ -4,6 +4,7 @@ pandas
 scipy
 
 # -- ML -- #
+category_encoders
 scikit-learn
 xgboost
 lightgbm
