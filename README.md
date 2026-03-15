@@ -7,7 +7,7 @@
 [![Hydra](https://img.shields.io/badge/Config-Hydra-89b8cd)](https://hydra.cc/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](/LICENSE)
 
-Прогнозирование исхода матчей **Dota 2** с использованием PyTorch Lightning и Hydra для гибкой настройки экспериментов. 🚀
+Прогнозирование исхода матчей **Dota 2**
 
 </div>
 
